@@ -1,0 +1,23 @@
+
+From: PayPal Support <security@paypaI-example.top>
+To: customer@example.com
+Reply-To: helpdesk@unknown-example.com
+Return-Path: <bounce@unknown-example.com>
+Subject: URGENT: Your account will be suspended
+Date: Thu, 19 Nov 2026 10:00:00 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Received-SPF: fail
+Authentication-Results: example.com; spf=fail; dkim=fail; dmarc=fail
+
+Dear Customer,
+
+URGENT! Your account will be suspended immediately.
+
+Verify your account within 24 hours to avoid permanent suspension.
+
+Click here to verify your identity:
+http://paypaI-example.top/verify
+
+Thank you,
+PayPal Security Team
